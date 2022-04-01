@@ -1,0 +1,24 @@
+{
+  "name": "blog-app-backend",
+  "version": "1.0.0",
+  "description": "blog app back for purposes of API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-blogappbackend:kimondo88/blog-app-backend.git"
+  },
+  "keywords": [
+    "blog",
+    "app",
+    "backend",
+    "API"
+  ],
+  "author": "Adam \"kim\" Tarczewski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
